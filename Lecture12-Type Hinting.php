@@ -100,7 +100,7 @@ class student
 }
 
 
-$sch = new School();
-$Stu = new student();
+// $sch = new School();
+// $Stu = new student();
 
-$sch->School($Stu);
+// $sch->School($Stu);
